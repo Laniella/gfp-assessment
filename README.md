@@ -2,7 +2,7 @@
 
 Author: someone else
 
-ISBN: 
+ISBN: ABCDEFGHIJKL
 
 Title: 
 
